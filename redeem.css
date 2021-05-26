@@ -1,7 +1,17 @@
 body {
-
-background-color:#DCDCDC
+background-color: #DCDCDC;
 }
-p1 {
-style="font-family:Segoe UI"
+p {
+font-family: Segoe UI;
+text-align: center;
+}
+input {
+display: block;
+margin: auto;
+border: 2px #4D4D4D;
+border-radius: 4px;
+height:30px;
+width:50%;
+font-size: 20px;
+text-align: center;
 }
