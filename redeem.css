@@ -5,6 +5,9 @@ p {
 font-family: Segoe UI;
 text-align: center;
 }
+label {
+background-color: #DCDCDC;
+}
 form {
 display: block;
 margin: auto;
