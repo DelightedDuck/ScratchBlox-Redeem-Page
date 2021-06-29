@@ -5,7 +5,7 @@ p {
 font-family: Segoe UI;
 text-align: center;
 }
-input {
+form {
 display: block;
 margin: auto;
 border: 2px #4D4D4D;
